@@ -13,4 +13,8 @@ i want have my own house,only for me.
 
 Creating a new branch is quick and simple.
 
+<<<<<<< Updated upstream
 保留删除的分支
+=======
+工作还没有完成！！！
+>>>>>>> Stashed changes
