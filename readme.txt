@@ -12,3 +12,5 @@ i want have my own house,only for me.
 
 
 Creating a new branch is quick and simple.
+
+保留删除的分支
