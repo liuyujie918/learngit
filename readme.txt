@@ -10,4 +10,11 @@ Git has a mutable index called stage
 i have a dream
 i want have my own house,only for me.
 
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+
+>>>>>>> feature1
+
+Creating a new branch is quick and simple.
