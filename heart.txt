@@ -11,3 +11,7 @@
 大部分的痛苦，都是不肯欢唱的结果，大部分的哀伤，只是源于执念太深。
 i am coming
 what about you
+
+
+修复BUG
+
